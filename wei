@@ -1,0 +1,21 @@
+package text;
+
+public class Jianwei {
+	public static void main(String[] args) {
+		char name='简';
+		char name1='卫';
+		int age=18;
+		double s=180;
+		System.out.print("姓名:");
+		System.out.print(name);
+		System.out.println(name1);
+		System.out.print("年龄:");	
+		System.out.println(age);
+		System.out.print("身高:");
+		System.out.println(s);
+		
+		
+
+	}
+
+}
